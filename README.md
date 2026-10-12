@@ -11,8 +11,6 @@
 <img src="pic/Herz.png" width="500"> 
 <br> <br>
 
-</div>
-
 ## Calliope Workshop und Programme
 
 ---
